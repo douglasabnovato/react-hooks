@@ -15,15 +15,15 @@
 
 - [x] 1. Introdução do Módulo
 - [x] 2. Configuração de Projeto: `npm i -g create-react-app` e `create-react-app react-hooks` 
-- [x] 3. useState
-- [x] 4. useEffect
-- [x] 5. useRef
-- [x] 6. useMemo
-- [x] 7. useCallback 
+- [x] 3. useState #01
+- [x] 4. useEffect #02
+- [x] 5. useRef #03
+- [x] 6. useMemo #04
+- [x] 7. useCallback #05 
 - [x] 8. porque usar context API
-- [x] 9. useContext
-- [x] 10. useReducer
-- [x] 11. Custom Hooks
+- [x] 9. useContext #06
+- [x] 10. useReducer #07
+- [x] 11. Custom Hooks #08
 - [x] 12. Conclusão do Módulo
 
 ## 🚀 Seções 
