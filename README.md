@@ -28,7 +28,7 @@
 
 ## 🚀 Seções 
 
-- [x] Layout e lógica [60 - 80] 
+- [x] Layout e lógica [60 - 81] 
 
 ## 🚀 Construído o projeto 
 
